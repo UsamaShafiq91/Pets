@@ -1,0 +1,24 @@
+{
+        "pageTitle": "Pet Detail",
+        "components": [
+            {
+                "type": "featuredImage",
+                "data": {
+                    "imageUrl": "https://images.unsplash.com/photo-1529257414772-1960b7bea4eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                }
+            },
+            {
+                "type": "textRow",
+                "data": {
+                    "text": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+                }
+            },
+            {
+                "type": "rating",
+                "data": {
+                    "rating": 3
+                }
+            }
+        ]
+}
+
